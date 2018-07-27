@@ -30,3 +30,4 @@ Jake Hansen
 Marty Vowles
 * Special thanks to outside contributors:
 Karl Muecke - Align to Connector Pane Quick Drop and associated library. 
+Darren Nattinger - Disconnect from typedef
