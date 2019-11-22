@@ -4,7 +4,7 @@
 ### What is this repository for? ###
 
 * Quick summary:
-This repository is desinged to hold and track useful quick drop tools for LabView. 
+This repository is desinged to hold and track useful quick drop tools for LabVIEW. 
 * Version
 0.2
 
